@@ -1,15 +1,18 @@
+html{
+  font-size :20px;
+}
 body {
   font-family: "Arial", "Meiryo", sans-serif;
   text-align: center;
-  font-size: 20px;
+
 }
 
 h1 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 2em; /* ルート要素のフォントサイズが20pxなので、2倍は40px */
-  letter-spacing: 1.2em; /* 文字間を1.2倍 */
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* 影を付ける */
-  border-bottom: 3px solid rgb(115, 115, 114); /* 下に実線を付ける */
+  font-size: 2em; 
+  letter-spacing: 1.2em; 
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
+  border-bottom: 3px solid rgb(115, 115, 114);
 }
 
 h1 .skyblue {
